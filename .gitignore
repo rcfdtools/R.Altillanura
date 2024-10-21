@@ -35,7 +35,7 @@ Lib/
 *.shx
 *.dbf
 *.prj
-*.CPG
+*.cpg
 *.sbn
 *.sbx
 *.shp.*
