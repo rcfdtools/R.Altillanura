@@ -21,7 +21,7 @@ Departamento del Vichada (municipios)
 ## Coberturas geográficas
 
 * Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
-* 
+* [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
 
 
 ## References
