@@ -24,6 +24,13 @@ Departamento del Vichada (municipios)
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
 
 
+## Cartografía base
+
+* Departamentos de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
+* Municipios, Distritos y Áreas no municipalizadas de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
+* Parque Nacional Natural. Parques Nacionales Naturales - PNN 01/01/2020. https://www.colombiaenmapas.gov.co/
+
+
 ## References
 
 * https://tiendavirtual.igac.gov.co/en/content/la-altillanura-colombiana-aspectos-biof%C3%ADsicos
