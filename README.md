@@ -24,6 +24,8 @@ Departamento del Vichada (municipios)
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
 * Concesiones mineras (hidrocarburos)
 * Zonas de orden público
+* Ruta 40, carretera de oriente
+
 
 ## Cartografía base
 
