@@ -25,7 +25,7 @@ Departamento del Vichada (municipios)
 * Áreas de minería e hidrocarburos, Agencia Nacional de Hidrocarburos - ANH
 * Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
-* Zonas de orden público
+* Centros poblados y cabeceras municipales de Colombia, Instituto Geográfico Agustín Codazzi - IGAC 
 * Ruta 40, carretera de oriente
 
 
