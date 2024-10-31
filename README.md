@@ -22,7 +22,8 @@ Departamento del Vichada (municipios)
 
 * Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
-* Concesiones mineras (hidrocarburos)
+* Áreas de minería e hidrocarburos, Agencia Nacional de Hidrocarburos - ANH
+* Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
 * Zonas de orden público
 * Ruta 40, carretera de oriente
 
