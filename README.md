@@ -26,7 +26,8 @@ Departamento del Vichada (municipios)
 * Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
 * Centros poblados y cabeceras municipales de Colombia, Instituto Geográfico Agustín Codazzi - IGAC 
-* Ruta 40, carretera de oriente
+* Red Vial de Colombia, Instituto Nacional de Vias - INVIAS
+* 
 
 
 ## Cartografía base
