@@ -24,6 +24,7 @@ Departamento del Vichada (municipios)
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
 * Áreas de minería e hidrocarburos, Agencia Nacional de Hidrocarburos - ANH
 * Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
+* Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
 * Zonas de orden público
 * Ruta 40, carretera de oriente
 
