@@ -65,7 +65,6 @@ Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zon
 
 * Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
-* Áreas de minería e hidrocarburos, Agencia Nacional de Hidrocarburos - ANH
 * Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
 * Centros poblados y cabeceras municipales de Colombia, Instituto Geográfico Agustín Codazzi - IGAC 
@@ -92,10 +91,27 @@ El mapa de Vocación de Uso de las tierras se determina mediante matrices de dec
 
 ### 2.3. ISRIC World Soil Information - Global Assessment of Human-induced Soil Degradation (GLASOD)
 
-Estudio FAO de degradación mundial de suelos. [^2]
+Estudio FAO de degradación inducida mundial de suelos de 1990. [^2]
 
 <div align="center"><img src="file/graph/GLASOD1990.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
+
+### 2.4. Parques Nacionales Naturales - PNN
+
+El mapa digital Parques Nacionales Naturales según categoría, perteneciente al Sistema de Información Geográfica para la Planeación y el Ordenamiento Territorial - SIGOT, contiene información a nivel municipal referente al tipo de categoría de Parque Nacional Natural (Reserva Natural, Área Natural Única, Santuario de Flora, Santuario de Fauna y Vía Parque) para el año 2017. Información proporcionada por Parques Nacionales Naturales de Colombia.
+
+* Fecha de Elaboración: 01-01-2020
+
+<div align="center"><img src="file/graph/PNN.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.5. Áreas de minería e hidrocarburos y bloques de exploración petrolera , Agencia Nacional de Hidrocarburos - ANH
+
+La asignación de áreas para el desarrollo de actividades mineras (solicitudes y títulos vigentes) y de hidrocarburos (exploración y explotación), es un tema territorial de gran relevancia actual y futura de acuerdo con las propuestas de uso que se realicen, bajo las consultas específicas tanto con las correspondientes agencias nacionales como con las corporaciones autónomas regionales, con el objeto de identificar el estado de licenciamiento ambiental correspondiente. A través de los títulos mineros como figura, el Estado concede el derecho a explorar y explotar los recursos naturales minerales. Por su parte el sector de hidrocarburos comprende el conjunto de actividades relacionadas con: exploración, producción, transporte, refinación o procesamiento y comercialización de los recursos naturales no renovables. (AGENCIA NACIONAL DE HIDROCARBUROS, s.f).
+
+* Fecha de Elaboración: 30-12-2021
+
+<div align="center"><img src="file/graph/AreaMineraHidrocarburo.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
 
