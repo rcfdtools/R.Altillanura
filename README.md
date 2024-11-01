@@ -1,5 +1,7 @@
 # Investigación Altillanura Colombiana
 
+La Orinoquia es una región diversa que incluye la Altillanura, conocida por sus sabanas y ecosistemas únicos. La Altillanura se distingue por su potencial agrícola y su biodiversidad, con un clima tropical de sabana y una temporada de lluvias bien definida. La región alberga una rica fauna y flora, lo que la convierte en un área de gran interés ecológico y económico.
+
 
 ## 1. Delimitación geográfica
 
@@ -170,6 +172,32 @@ Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artef
 * Fecha de Elaboración: 23-03-2021
 
 <div align="center"><img src="file/graph/EventoMinaAntipersonalDAPRE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+## 3. Políticas 
+
+En el año 2014 el gobierno nacional, a través del Consejo Nacional de Política Económica y Social (COPNES), dentro del marco del Plan Nacional de Desarrollo “Prosperidad para Todos”, presentó el documento con la Política para el Desarrollo Integral de la Orinoquía: Altillanura Fase I. El propósito sus lineamientos es crear las condiciones sociales y económicas para el desarrollo incluyente y sostenible de la Altillanura, basado en la construcción de un modelo de región a partir del equipamiento en infraestructura y servicios sociales, el ordenamiento territorial acorde a la vocación de la región, la generación de condiciones que incentiven la inversión para aprovechar el potencial agropecuario y agroindustrial y la ampliación de las capacidades institucionales para la gestión del desarrollo regional.
+
+The Nature Conseervancy en conjunto con 20 organizaciones ambientales que hacen parte del Pacto Orinoquia Sostenible, entre ellas el Ministerio de Agricultura y Desarrollo Rural, el Proyecto Biocarbono Orinoquia, TFA, WWF, WCS, Fondo Acción, IAVH, Asorinoquia, GGGI4 y Ecopetrol, presentaron en el año 2021 el Manifiesto por el Desarrollo Sostenible de la Orinoquia que representa un compromiso colectivo para asegurar que el crecimiento de la región se realice de manera armónica con su riqueza natural y cultural. El manifiesto que busca promover el desarrollo sostenible en la región de la Orinoquía en Colombia, enfocándose en un desarrollo económico que respete y conserve la biodiversidad y los ecosistemas locales, beneficiando a sus comunidades. Sus intenciones incluyen fomentar la colaboración entre diversos actores, como gobiernos, organizaciones sociales y el sector privado, además de impulsar la educación ambiental y proteger los territorios de pueblos indígenas y campesinos mediante su participación en decisiones. Las políticas propuestas abarcan la implementación de prácticas sostenibles en agricultura y ganadería, la preservación de ecosistemas estratégicos, la promoción de investigación e innovación en gestión ambiental, y la creación de políticas públicas que prioricen la sostenibilidad y el bienestar socioeconómico. 
+
+
+## 4. Potencial agrícola y vocación de uso del suelo
+
+La Altillanura posee un gran potencial para el aprovechamiento agrícola, pecuario y forestal. Dentro de los cultivos predominantes en la región se encuentra la palma de aceite, caucho, soya y maíz. La región es apta para la ganadería extensiva. La combinación de estos factores hace que la Altillanura sea una zona con capacidad para el desarrollo agroindustrial de Colombia. Es importante mencionar que el aprovechamiento del suelo ha sido limitado por los elevados niveles de acidez del suelo, el bajo contenido de materia orgánica y minerales, y la fuerte temporada seca entre diciembre y marzo que se intensifica al oriente de la región.
+
+
+## 5.  Pérdida de capacidad y productividad del suelo. Capa arable.
+
+La región enfrenta desafíos significativos relacionados con la pérdida de capacidad del suelo debido a prácticas agrícolas inadecuadas, deforestación y erosión. La implementación de técnicas de agricultura sostenible, como la rotación de cultivos y el uso de abonos orgánicos, es crucial para mantener la fertilidad del suelo y prevenir su degradación.
+
+
+## 6. Infraestructura
+
+La infraestructura vial en la Altillanura es limitada, las carreteras y vías existentes son esenciales para el transporte de productos agrícolas, pero su estado actual dificulta el desarrollo económico y la conectividad regional.
+
+
+## 7. Potencial hídrico
+
 
 
 
