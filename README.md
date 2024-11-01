@@ -1,5 +1,4 @@
-# R.Altillanura
-Investigación Altillanura Colombiana
+# Investigación Altillanura Colombiana
 
 
 ## 1. Delimitación geográfica
