@@ -198,8 +198,12 @@ La infraestructura vial en la Altillanura es limitada, las carreteras y vías ex
 
 ## 7. Potencial hídrico
 
+La Altillanura cuenta con un considerable potencial hídrico gracias a sus ríos y cuerpos de agua, que son vitales para la agricultura y el abastecimiento de agua.
 
 
+## 8. Zonas protegidas
+
+En la región se encuentran varias zonas protegidas y parques naturales que promueven la conservación de la biodiversidad y los ecosistemas, preservando la flora y fauna locales.
 
 
 
