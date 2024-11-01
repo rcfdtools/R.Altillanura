@@ -73,6 +73,21 @@ Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zon
 * [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
 
+### 2.1. Vocación de Uso territorio Nacional -  Instituto Geográfico Agustín Codazzi - IGAC
+
+El mapa de Vocación de Uso de las tierras se determina mediante matrices de decisión que incluyen indicadores e índices de su estado. En los atributos geo gráficos considerados se encuentra el clima y la pendiente. Entre los de los suelos sobresalen la erosión, humedad, granulometría, pedregosidad, profundidad efectiva, fertilidad y salinidad. Esta clasificación comprende 5 clases: agrícola, ganadera, agroforestal, forestal y de conservación/recuperación. En cada una se establece el uso principal que debe tener. Este producto es generado por la Subdirección de Agrología del Instituto Geográfico Agustín Codazzi - IGAC, para el territorio nacional, el cual fue publicado en la obra Suelos y Tierras de Colombia 2016 a escala 1:100.000.
+
+* Nivel de detalle: 1:100.000
+* Fecha de Elaboración: 31-12-2013
+
+<div align="center"><img src="file/graph/VocacionUsoIGAC.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+
+
+
+
+
 ## Cartografía base
 
 * Departamentos de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
