@@ -174,6 +174,20 @@ Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artef
 <div align="center"><img src="file/graph/EventoMinaAntipersonalDAPRE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
+### 2.12. Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
+
+El mapa de suelos negros es una iniciativa mundial de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), con el fin de establecer pautas de manejo sobre el recurso más importante en la seguridad alimentaria.
+
+En Colombia el mapa se finalizó en el 2021, con información de 6322 perfiles a nivel nacional, y permite conocer la distribución de las condiciones actuales de los suelos y sus limitantes de uso.  Lo anterior, facilitará tomar decisiones de protección sobre el recurso, valorando sus beneficios como fertilidad, lo que evitaría la utilización de fertilizantes de alto costo e impacto, servicio ecosistémico en la mitigación al cambio climático y la regulación hídrica, así como implementar manejos que permitan disminuir los procesos de erosión que lo atañen por manejos antrópicos inadecuados o por fenómenos naturales.
+
+Es así, que el mapa de suelos negros, tanto a nivel nacional,como su integración a nivel mundial, permitirá dimensionar las zonas con potencial agrícola, así como la despensa de alimentos y por ende la seguridad alimentaria de la nación. 
+
+* Nivel de detalle: 1:1.000.000
+* Fecha de Elaboración: 06-07-2022
+
+<div align="center"><img src="file/graph/SuelosNegrosIGAC.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
 ## 3. Políticas 
 
 En el año 2014 el gobierno nacional, a través del Consejo Nacional de Política Económica y Social (COPNES), dentro del marco del Plan Nacional de Desarrollo “Prosperidad para Todos”, presentó el documento con la Política para el Desarrollo Integral de la Orinoquía: Altillanura Fase I. El propósito sus lineamientos es crear las condiciones sociales y económicas para el desarrollo incluyente y sostenible de la Altillanura, basado en la construcción de un modelo de región a partir del equipamiento en infraestructura y servicios sociales, el ordenamiento territorial acorde a la vocación de la región, la generación de condiciones que incentiven la inversión para aprovechar el potencial agropecuario y agroindustrial y la ampliación de las capacidades institucionales para la gestión del desarrollo regional.
