@@ -21,7 +21,7 @@ Departamento del Vichada (municipios)
 * Santa Rosalía
 * Puerto Carreño
 
-<div align="center"><img src="file/graph/AltillanuraLimite1.jpg" alt="R.SIGE" width="100%" border="0" /></div>
+<div align="center"><img src="file/graph/AltillanuraLimite1.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
 ### 1.2. Delimitación Instituto Humboldt de 2013
@@ -43,20 +43,25 @@ Departamento del Vichada (municipios)
 * Santa Rosalía
 * Puerto Carreño
 
+<div align="center"><img src="file/graph/AltillanuraLimite2.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
 
 ### 1.3. Delimitación por departamentos Orinoquía Colombiana
 
 La Orinoquía por su parte abarca el área colombiana de la gran cuenca del río Orinoco y a partir de la división político-administrativa del país, comprende los departamentos de Arauca, Casanare, Vichada, Meta, Guaviare y Guainía con una extensión total de 380.600 km², correspondientes a 71 municipios.
 
+<div align="center"><img src="file/graph/AltillanuraLimite3.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
 
 ### 1.4. Delimitación por subzonas hidrográficas Orinoquía Colombiana
 
+Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zona hidrográfica Orinoquía.
+
+<div align="center"><img src="file/graph/AltillanuraLimite4.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
 
-
-
-## Coberturas geográficas
+## 2. Coberturas geográficas
 
 * Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
