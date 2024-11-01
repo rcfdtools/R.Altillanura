@@ -73,7 +73,14 @@ Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zon
 * [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
 
-### 2.1. Vocación de Uso territorio Nacional -  Instituto Geográfico Agustín Codazzi - IGAC
+### 2.1. Modelo digital de elevación DEM - SRTM NASA
+
+La Misión Topográfica Shuttle Radar (acrónimo en inglés SRTM, de Shuttle Radar Topography Mission) es un proyecto internacional entre la Agencia Nacional de Inteligencia-Geoespacial, NGA, y la Administración Nacional de la Aeronáutica y del Espacio, NASA. Su fin es obtener un modelo digital de elevación de la zona del globo terráqueo entre 56 °S a 60 °N, de modo que genere una completa base de mapas topográficos digitales de alta resolución de la Tierra. Esta base cartográfica ha sido ampliamente utilizada en diferentes campos del conocimiento relacionados con la geomática al poderse descargar gratuitamente a través de Internet. [^1]
+
+<div align="center"><img src="file/graph/DEMSRTMNASA.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.2. Vocación de Uso territorio Nacional -  Instituto Geográfico Agustín Codazzi - IGAC
 
 El mapa de Vocación de Uso de las tierras se determina mediante matrices de decisión que incluyen indicadores e índices de su estado. En los atributos geo gráficos considerados se encuentra el clima y la pendiente. Entre los de los suelos sobresalen la erosión, humedad, granulometría, pedregosidad, profundidad efectiva, fertilidad y salinidad. Esta clasificación comprende 5 clases: agrícola, ganadera, agroforestal, forestal y de conservación/recuperación. En cada una se establece el uso principal que debe tener. Este producto es generado por la Subdirección de Agrología del Instituto Geográfico Agustín Codazzi - IGAC, para el territorio nacional, el cual fue publicado en la obra Suelos y Tierras de Colombia 2016 a escala 1:100.000.
 
@@ -83,6 +90,11 @@ El mapa de Vocación de Uso de las tierras se determina mediante matrices de dec
 <div align="center"><img src="file/graph/VocacionUsoIGAC.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
+### 2.3. ISRIC World Soil Information - Global Assessment of Human-induced Soil Degradation (GLASOD)
+
+Estudio FAO de degradación mundial de suelos. [^2]
+
+<div align="center"><img src="file/graph/GLASOD1990.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
 
@@ -106,3 +118,7 @@ El mapa de Vocación de Uso de las tierras se determina mediante matrices de dec
 * [Evaluación ambiental estratégica del sector agropecuario - Altillanura y alta montaña cundiboyacense. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt.](https://www.minambiente.gov.co/wp-content/uploads/2022/04/10.-EAE-Sector-agropecuario-altillanura-y-alta-montana-cundiboyacense.pdf)
 * [Unidad de planificación rural aropecuaria - UPRA, Geoservicios](https://geoservicios.upra.gov.co/arcgis/rest/services)
 * [ISRIC World Soil Information - Global Assessment of Human-induced Soil Degradation (GLASOD)](https://data.isric.org/geonetwork/srv/eng/catalog.search#/metadata/9e84c15e-cb46-45e2-9126-1ca38bd5cd22)
+
+
+[^1]: https://es.wikipedia.org/wiki/Misi%C3%B3n_topogr%C3%A1fica_Radar_Shuttle
+[^2]: https://data.isric.org/geonetwork/srv/eng/catalog.search#/metadata/9e84c15e-cb46-45e2-9126-1ca38bd5cd22
