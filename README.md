@@ -172,6 +172,9 @@ Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artef
 <div align="center"><img src="file/graph/EventoMinaAntipersonalDAPRE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
+
+
+
 ## References
 
 * [Documento Conpes 3797, Política para desarrollo integral de la Orinoquía: Altillanura - Fase I. DNP](https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3797.pdf)
