@@ -27,6 +27,7 @@ Departamento del Vichada (municipios)
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
 * Centros poblados y cabeceras municipales de Colombia, Instituto Geográfico Agustín Codazzi - IGAC 
 * Red Vial de Colombia, Instituto Nacional de Vias - INVIAS
+* [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
 
 ## Cartografía base
