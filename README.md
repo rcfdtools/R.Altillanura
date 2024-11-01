@@ -2,7 +2,12 @@
 Investigación Altillanura Colombiana
 
 
-## Zonas geográficas
+## 1. Delimitación geográfica
+
+
+### 1.1. Delimitación Conpes 3797 de 2014 
+
+De acuerdo con Gaviria (1993), la región de la Altillanura corresponde al territorio conformado por sabanas unos metros más altos que el cauce del río Meta, con una red hidrográfica autónoma de tal manera que en la temporada de lluvias estas sabanas no se inundan como sí lo hacen las de la margen izquierda del río Meta. Esta delimitación es la adoptada por el CONPES 3797 (2014), como una subregión de la Orinoquía, definida como un territorio de 135.000 km² y siete municipios del departamento del Meta y Vichada.
 
 Departamento del Meta (municipios)
 
@@ -16,6 +21,40 @@ Departamento del Vichada (municipios)
 * Cumaribo
 * Santa Rosalía
 * Puerto Carreño
+
+<div align="center"><img src="file/graph/AltillanuraLimite1.jpg" alt="R.SIGE" width="100%" border="0" /></div>
+
+
+### 1.2. Delimitación Instituto Humboldt de 2013
+
+El Instituto Humboldt (2013) define el área geográfica de la Altillanura colombiana, como la región que se extiende desde el municipio de Puerto López y San Martin por el Oeste, al Norte sobre la margen del Río Meta, al Sur la margen del Río Guaviare hasta la desembocadura en el Orinoco en los departamentos de Meta y Vichada, conformado por los siguientes municipios con una extensión total de 143.042 km²:
+
+Departamento del Meta (municipios)
+
+* Puerto López
+* Puerto Gaitán
+* Mapiripán
+* San Martin
+
+Departamento del Vichada (municipios)
+
+* La primavera
+* Cumaribo
+* Santa Rosalía
+* Puerto Carreño
+* Puerto Concordia
+
+
+### 1.3. Delimitación por departamentos Orinoquía Colombiana
+
+La Orinoquía por su parte abarca el área colombiana de la gran cuenca del río Orinoco y a partir de la división político-administrativa del país, comprende los departamentos de Arauca, Casanare, Vichada, Meta, Guaviare y Guainía con una extensión total de 380.600 km².
+
+
+### 1.4. Delimitación por subzonas hidrográficas Orinoquía Colombiana
+
+
+
+
 
 
 ## Coberturas geográficas
