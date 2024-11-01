@@ -60,14 +60,7 @@ Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zon
 <div align="center"><img src="file/graph/AltillanuraLimite4.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
-
 ## 2. Coberturas geográficas
-
-* Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
-* [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
-* Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
-* Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
-* [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
 
 ### 2.1. Modelo digital de elevación DEM - SRTM NASA
@@ -179,14 +172,6 @@ Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artef
 <div align="center"><img src="file/graph/EventoMinaAntipersonalDAPRE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
-
-## Cartografía base
-
-* Departamentos de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
-* Municipios, Distritos y Áreas no municipalizadas de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
-* Parque Nacional Natural. Parques Nacionales Naturales - PNN 01/01/2020. https://www.colombiaenmapas.gov.co/
-
-
 ## References
 
 * [Documento Conpes 3797, Política para desarrollo integral de la Orinoquía: Altillanura - Fase I. DNP](https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3797.pdf)
@@ -198,6 +183,15 @@ Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artef
 * [Evaluación ambiental estratégica del sector agropecuario - Altillanura y alta montaña cundiboyacense. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt.](https://www.minambiente.gov.co/wp-content/uploads/2022/04/10.-EAE-Sector-agropecuario-altillanura-y-alta-montana-cundiboyacense.pdf)
 * [Unidad de planificación rural aropecuaria - UPRA, Geoservicios](https://geoservicios.upra.gov.co/arcgis/rest/services)
 * [ISRIC World Soil Information - Global Assessment of Human-induced Soil Degradation (GLASOD)](https://data.isric.org/geonetwork/srv/eng/catalog.search#/metadata/9e84c15e-cb46-45e2-9126-1ca38bd5cd22)
+* Departamentos de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
+* Municipios, Distritos y Áreas no municipalizadas de Colombia. IGAC 30/06/2024. https://www.colombiaenmapas.gov.co/
+* Zonificación de tierras del departamento del Meta, IGAC. Escala 1:100.000
+* [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
+* Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
+* Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
+* [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
+
+
 
 
 [^1]: https://es.wikipedia.org/wiki/Misi%C3%B3n_topogr%C3%A1fica_Radar_Shuttle
