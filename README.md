@@ -34,6 +34,7 @@ Departamento del Meta (municipios)
 * Puerto Gaitán
 * Mapiripán
 * San Martin
+* Puerto Concordia
 
 Departamento del Vichada (municipios)
 
@@ -41,12 +42,11 @@ Departamento del Vichada (municipios)
 * Cumaribo
 * Santa Rosalía
 * Puerto Carreño
-* Puerto Concordia
 
 
 ### 1.3. Delimitación por departamentos Orinoquía Colombiana
 
-La Orinoquía por su parte abarca el área colombiana de la gran cuenca del río Orinoco y a partir de la división político-administrativa del país, comprende los departamentos de Arauca, Casanare, Vichada, Meta, Guaviare y Guainía con una extensión total de 380.600 km².
+La Orinoquía por su parte abarca el área colombiana de la gran cuenca del río Orinoco y a partir de la división político-administrativa del país, comprende los departamentos de Arauca, Casanare, Vichada, Meta, Guaviare y Guainía con una extensión total de 380.600 km², correspondientes a 71 municipios.
 
 
 ### 1.4. Delimitación por subzonas hidrográficas Orinoquía Colombiana
