@@ -67,8 +67,6 @@ Definición a partir de las subzonas hidrográficas del IDEAM - 2013 para la zon
 * [ICDE - Tipo de utilización de tierra Altillanura](https://www.icde.gov.co/buscador?search_api_fulltext=altillanura)
 * Mapa Nacional de Suelos Negros, Instituto Geográfico Agustín Codazzi - IGAC
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
-* Centros poblados y cabeceras municipales de Colombia, Instituto Geográfico Agustín Codazzi - IGAC 
-* Red Vial de Colombia, Instituto Nacional de Vías - INVIAS
 * [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
 
@@ -113,6 +111,72 @@ La asignación de áreas para el desarrollo de actividades mineras (solicitudes 
 
 <div align="center"><img src="file/graph/AreaMineraHidrocarburo.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
+
+### 2.6. Vías férreas - Instituto Geográfico Agustín Codazzi - IGAC
+
+Tomadas de Base de datos vectorial básica. Colombia. Escala 1:100.000 de Instituto Geográfico Agustín Codazzi - IGAC.
+
+Cartografía vectorial a escala 1:100.000 con cobertura total de la República de Colombia. Contiene información sobre entidades territoriales, transporte terrestre y fluvial, hidrografía, relieve, orografía, construcciones. Se genera a partir de la interpretación de objetos en una imagen ortorectificada provenientes de plataformas satelitales o aerotransportadas.
+
+* Nivel de detalle: 1:100.000
+* Fecha de Elaboración: 01-04-2022
+
+<div align="center"><img src="file/graph/ViaFerrea.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.7. Red vial nacional - Instituto Geográfico Agustín Codazzi - IGAC
+
+Tomadas de Base de datos vectorial básica. Colombia. Escala 1:100.000 de Instituto Geográfico Agustín Codazzi - IGAC.
+
+Cartografía vectorial a escala 1:100.000 con cobertura total de la República de Colombia. Contiene información sobre entidades territoriales, transporte terrestre y fluvial, hidrografía, relieve, orografía, construcciones. Se genera a partir de la interpretación de objetos en una imagen ortorectificada provenientes de plataformas satelitales o aerotransportadas.
+
+* Nivel de detalle: 1:100.000
+* Fecha de Elaboración: 01-04-2022
+
+<div align="center"><img src="file/graph/ViaIGAC.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.8. Red vial de Colombia - Instituto Nacional de Vías - INVIAS
+
+Mapa digital de La Red Vial Nacional de Carreteras que esta conformada por las troncales, transversales y accesos a capitales de Departamento que cumplen la función básica de integración de las principales zonas de producción y consumo del país y de éste con los demás países.
+
+* Fecha de Elaboración: 01-01-2016
+
+<div align="center"><img src="file/graph/ViaINVIAS.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+Ruta 40 y ruta 65
+
+<div align="center"><img src="file/graph/ViaINVIASRuta40Ruta65.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.9. Red de drenaje - Instituto Geográfico Agustín Codazzi - IGAC
+
+Tomadas de Base de datos vectorial básica. Colombia. Escala 1:100.000 de Instituto Geográfico Agustín Codazzi - IGAC.
+
+Cartografía vectorial a escala 1:100.000 con cobertura total de la República de Colombia. Contiene información sobre entidades territoriales, transporte terrestre y fluvial, hidrografía, relieve, orografía, construcciones. Se genera a partir de la interpretación de objetos en una imagen ortorectificada provenientes de plataformas satelitales o aerotransportadas.
+
+* Nivel de detalle: 1:100.000
+* Fecha de Elaboración: 01-04-2022
+
+<div align="center"><img src="file/graph/DrenajeIGAC.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.10. Centros poblados y cabeceras municipales de Colombia, Departamento Administrativo Nacional de Estadística - DANE
+
+Cabeceras y centros poblados de Colombia delimitados por el DANE dentro del Marco Geoestadístico Nacional año 2020. Las cabeceras municipales son áreas geográficas delimitadas por el perímetro censal. A su interior se localiza la sede administrativa del municipio, es decir la alcaldía. Los centros poblados son concentraciones mínimas de veinte (20) viviendas contiguas, vecinas o adosadas entre sí, ubicados en el área resto municipal o en un área no municipalizada.
+
+* Fecha de Elaboración: 31-12-2020
+
+<div align="center"><img src="file/graph/CentroPobladoCabeceraDANE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
+
+
+### 2.11. Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
+
+Eventos por presencia o sospecha de presencia de minas antipersonal (MAP), artefactos explosivos improvisado (AEI) con características de minas antipersonal y municiones sin explotar (MUSE) en Colombia en el periodo comprendido entre 1990 al mes anterior de la fecha de corte. Estos datos son dispuestos por el Departamento Administrativo de la Presidencia de la República - DAPRE.
+
+* Fecha de Elaboración: 23-03-2021
+
+<div align="center"><img src="file/graph/EventoMinaAntipersonalDAPRE.jpg" alt="R.Altillanura" width="100%" border="0" /></div>
 
 
 
