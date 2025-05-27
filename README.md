@@ -239,7 +239,5 @@ En la región se encuentran varias zonas protegidas y parques naturales que prom
 * Eventos minas antipersonal en Colombia, Departamento Administrativo de la Presidencia de la República - DAPRE
 * [Coberturas y uso de las tierras altillanura 2013, Instituto Geográfico Agustín Codazzi - IGAC](https://mapas.igac.gov.co/server/rest/services/agrologia/coberturasyusodelastierrasaltillanura2013/MapServer/WFSServer)
 
-12345
-
 [^1]: https://es.wikipedia.org/wiki/Misi%C3%B3n_topogr%C3%A1fica_Radar_Shuttle
 [^2]: https://data.isric.org/geonetwork/srv/eng/catalog.search#/metadata/9e84c15e-cb46-45e2-9126-1ca38bd5cd22
