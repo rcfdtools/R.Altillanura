@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/R.Altillanura.iml" filepath="$PROJECT_DIR$/.idea/R.Altillanura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../R.GISMobile/.idea/R.GISMobile.iml" filepath="$PROJECT_DIR$/../R.GISMobile/.idea/R.GISMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rcfdtools/.idea/rcfdtools.iml" filepath="$PROJECT_DIR$/../rcfdtools/.idea/rcfdtools.iml" />
     </modules>
   </component>
 </project>

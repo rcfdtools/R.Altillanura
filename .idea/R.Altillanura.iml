@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="rcfdtools" />
+    <orderEntry type="module" module-name="R.GISMobile" />
   </component>
 </module>
