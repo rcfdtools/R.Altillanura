@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="rcfdtools" />
     <orderEntry type="module" module-name="R.GISMobile" />
     <orderEntry type="module" module-name="R.HydroTools" />
+    <orderEntry type="module" module-name="R.HCMC" />
   </component>
 </module>
