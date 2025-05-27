@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="rcfdtools" />
     <orderEntry type="module" module-name="R.GISMobile" />
+    <orderEntry type="module" module-name="R.HydroTools" />
   </component>
 </module>
