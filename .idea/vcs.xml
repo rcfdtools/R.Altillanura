@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../R.GISMobile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../R.HCMC" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../R.HydroTools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../R.SIGE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../rcfdtools" vcs="Git" />
   </component>
 </project>
