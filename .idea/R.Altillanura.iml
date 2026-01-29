@@ -6,10 +6,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="rcfdtools" />
-    <orderEntry type="module" module-name="R.GISMobile" />
-    <orderEntry type="module" module-name="R.HydroTools" />
-    <orderEntry type="module" module-name="R.HCMC" />
-    <orderEntry type="module" module-name="R.SIGE" />
   </component>
 </module>
